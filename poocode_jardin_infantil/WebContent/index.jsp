@@ -36,7 +36,7 @@
 		        <p class="remember_me">
 		          <label>
 		            <input type="checkbox" name="remember_me" id="remember_me">
-		            Recordarme usuario y password
+		            Recordarme usuario y passwordgbf ht nhtn
 		          </label>
 		        </p>
 		        <p class="submit"><input type="submit" name="commit" id="commit" value="Login"></p>
